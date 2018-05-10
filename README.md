@@ -1,4 +1,4 @@
-# What are we about?
+# What is this project about?
 This project's vision is to enable folks to enjoy their aquariums by creating an easy to use automation platform on which the community can add/update modules.  
 
 The code and documentation are to be 100% open-source.  Submissions are to be done via Pull Requests so we can ensure consistency.  
@@ -35,3 +35,6 @@ As a consumer of this system, you would be responsible for:
 
 # Latest diagram...
 ![](/drawIO/Aquarium.png?raw=true "Latest diagram...")
+
+
+#  Some format and content lifted from CrazyMittens

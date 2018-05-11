@@ -35,6 +35,6 @@ As a consumer of this system, you would be responsible for:
 
 # Latest diagram...
 
-![[https://raw.github.com/diverjoe/repository/blob/master/img/AquaEscape Architecture.png|alt=AquaEscape Architecture.png]]
+[https://raw.github.com/diverjoe/repository/blob/master/img/AquaEscape Architecture.png|alt=AquaEscape Architecture.png]
 
 #  Some format and content lifted from CrazyMittens

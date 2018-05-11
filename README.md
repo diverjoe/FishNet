@@ -34,6 +34,6 @@ As a consumer of this system, you would be responsible for:
 * ORP
 
 # Latest diagram...
-![](FishNet/Documentation/AquaEscape Architecture.png?raw=true "Latest diagram...")
+![](FishNet/Documentation/AquaEscape Architecture.png)
 
 #  Some format and content lifted from CrazyMittens

@@ -1,0 +1,1 @@
+# OTA is "Over-The-Air" and refers to libraries that allow the ESP8266 code to be updated over WiFI

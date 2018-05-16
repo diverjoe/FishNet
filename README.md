@@ -32,6 +32,7 @@ As a consumer of this system, you would be responsible for:
 # Some systems on the horizon:
 * Alerting/notifying via SMS/email
 * ORP
+* Colorimetric sensing for KH, CO2 and others, automated titration based on CY-31 board.
 
 # Latest diagram...
 

@@ -54,6 +54,8 @@ void setup_wifi() {
   Serial.println("WiFi connected");
   Serial.println("IP address: ");
   Serial.println(WiFi.localIP());
+  Serial.println("MQTT address: ");
+  Serial.println(mqtt_server);
 }
 
 void callback(char* topic, byte* payload, unsigned int length) {
@@ -112,6 +114,7 @@ void setup() {
   //int SER_Pin = 14;   //pin 14 on the 75HC595 data
   //int RCLK_Pin = 12;  //pin 12 on the 75HC595 latch
   //int SRCLK_Pin = 13; //pin 11 on the 75HC595 clk
+  
   
   shift.setPins(SER_Pin, SRCLK_Pin, RCLK_Pin); 
   

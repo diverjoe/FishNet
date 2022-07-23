@@ -18,7 +18,7 @@ int SRCLK_Pin = 13; //pin 11 on the 75HC595 clk
 
 const char* ssid = "GottaBounce";
 const char* password = "Asdf1234";
-const char* mqtt_server = "192.168.0.28";
+const char* mqtt_server = "192.168.0.104";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
